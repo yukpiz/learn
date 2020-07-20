@@ -1,0 +1,18 @@
+INFO  2020-07-20T12:34:23.348 205398 on_process_exit:392: exited: pid=205400 status=0 stoptime=0
+INFO  2020-07-20T12:34:23.354 205398 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>46_start:49) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-07-20T12:34:23.469 205398 main:568: starting main loop
+INFO  2020-07-20T12:34:24.780 205398 on_process_exit:392: exited: pid=205440 status=0 stoptime=0
+INFO  2020-07-20T12:34:29.196 205398 on_process_exit:392: exited: pid=205441 status=0 stoptime=0
+INFO  2020-07-20T12:34:39.519 205398 on_process_exit:392: exited: pid=205475 status=0 stoptime=0
+INFO  2020-07-20T12:34:55.350 205398 on_process_exit:392: exited: pid=205495 status=0 stoptime=0
+INFO  2020-07-20T12:35:15.194 205398 on_process_exit:392: exited: pid=205540 status=0 stoptime=0
+INFO  2020-07-20T12:35:23.635 205398 on_process_exit:392: exited: pid=205541 status=0 stoptime=0
+INFO  2020-07-20T12:35:34.913 205398 channel_create_event:204: new channel 4 (function provider#clipboard#Call[6]..273:29) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2020-07-20T12:35:39.641 205398 channel_create_event:204: new channel 5 (function provider#clipboard#Call[6]..273:29) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2020-07-20T12:35:39.648 205398 on_process_exit:392: exited: pid=205544 status=0 stoptime=0
+INFO  2020-07-20T12:36:23.458 205398 on_process_exit:392: exited: pid=205546 status=0 stoptime=0
+INFO  2020-07-20T12:36:28.183 205398 on_process_exit:392: exited: pid=205663 status=0 stoptime=0
+INFO  2020-07-20T12:36:36.097 205398 on_process_exit:392: exited: pid=205669 status=0 stoptime=0
+INFO  2020-07-20T12:36:37.835 205398 os_proc_tree_kill:96: sending SIGTERM to PID -205401
+INFO  2020-07-20T12:36:37.839 205398 on_process_exit:392: exited: pid=205401 status=143 stoptime=92204284451811
+INFO  2020-07-20T12:36:37.839 205398 os_exit:595: Nvim exit: 0
